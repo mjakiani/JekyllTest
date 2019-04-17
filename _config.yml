@@ -1,3 +1,5 @@
 url: http://localhost/dpl
 name: Digital Pakistan Lab
 description: NUST
+
+theme: jekyll-theme-cayman
